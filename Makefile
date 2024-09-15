@@ -6,3 +6,6 @@ test:
   #
 lint:
 	pylint --disable=R,C app.py
+
+run: 
+	python app.py
